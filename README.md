@@ -1,6 +1,6 @@
-Welcome to @LearningWithMerritt
+# Welcome to @LearningWithMerritt
 
-Real World Knowledge. No Gimmicks. 
+`Real World Knowledge. No Gimmicks.` 
 We've all been there, useless classes and knowledge that seems pointless.  Here at Learning With Merritt we strive to provide real world knowledge with practical applications, not teaching gimmicks that lack substance. 
 
 Don't get bogged down by schooling and take control of your education. Don't ask what an education can do for you. Ask what you can do with an education.
